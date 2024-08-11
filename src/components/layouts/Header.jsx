@@ -24,6 +24,7 @@ const Header = () => {
           position: "sticky",
           top: 0,
           zIndex: 1000,
+          height: "4.5rem"
         }}
       >
         <Container>
