@@ -143,7 +143,7 @@ const Footer = () => {
             <Typography sx={{ mx: 2, whiteSpace: "nowrap", fontSize: "smaller", fontFamily: "Ubuntu-Medium", color: "grey" }}>Photo Credits</Typography>
             <Grid item sx={{ display: "flex", alignItems: "center" }}>
               <img src={COOKIE} style={{ width: "1rem", height: "1rem" }} alt="Cookie" />
-              <Typography sx={{ mx: 0.5, whiteSpace: "nowrap", fontSize: "smaller", color: "grey" }}>Change Cookie Settings</Typography>
+              <Typography sx={{ mx: 0.5, whiteSpace: "nowrap", fontSize: "smaller", color: "grey", fontFamily: "Ubuntu-Medium" }}>Change Cookie Settings</Typography>
             </Grid>
           </Grid>
           <Grid item sx={{ mt: { xs: 2, sm: 0 } }}>
