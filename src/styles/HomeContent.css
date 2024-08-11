@@ -1,0 +1,203 @@
+@font-face {
+    font-family: "IBMPlexSansBold";
+    src: url("./assets/fonts/IBMPlexSans-Bold.ttf") format("truetype");
+  }
+  
+  .card-img-top {
+    width: 7%;
+  }
+  
+  .custom-font {
+    font-family: "IBMPlexSansBold";
+    font-weight: bold;
+  }
+
+  @font-face {
+    font-family: "IBMPlexSans-Bold";
+    src: url("../assets/fonts/IBMPlexSans-Bold.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "IBMPlexSans-BoldItalic";
+    src: url("../assets/fonts/IBMPlexSans-BoldItalic.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "IBMPlexSans-ExtraLight";
+    src: url("../assets/fonts/IBMPlexSans-ExtraLight.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "IBMPlexSans-ExtraLightItalic";
+    src: url("../assets/fonts/IBMPlexSans-ExtraLightItalic.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "IBMPlexSans-Italic";
+    src: url("../assets/fonts/IBMPlexSans-Italic.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "IBMPlexSans-Light";
+    src: url("../assets/fonts/IBMPlexSans-Light.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "IBMPlexSans-LightItalic";
+    src: url("../assets/fonts/IBMPlexSans-LightItalic.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "IBMPlexSans-Medium";
+    src: url("../assets/fonts/IBMPlexSans-Medium.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "IBMPlexSans-MediumItalic";
+    src: url("../assets/fonts/IBMPlexSans-MediumItalic.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "IBMPlexSans-Regular";
+    src: url("../assets/fonts/IBMPlexSans-Regular.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "IBMPlexSans-SemiBold";
+    src: url("../assets/fonts/IBMPlexSans-SemiBold.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "IBMPlexSans-SemiBoldItalic";
+    src: url("../assets/fonts/IBMPlexSans-SemiBoldItalic.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "IBMPlexSans-Thin";
+    src: url("../assets/fonts/IBMPlexSans-Thin.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "IBMPlexSans-ThinItalic";
+    src: url("../assets/fonts/IBMPlexSans-ThinItalic.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Ubuntu-Bold";
+    src: url("../assets/fonts/Ubuntu-Bold.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Ubuntu-BoldItalic";
+    src: url("../assets/fonts/Ubuntu-BoldItalic.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Ubuntu-Italic";
+    src: url("../assets/fonts/Ubuntu-Italic.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Ubuntu-Light";
+    src: url("../assets/fonts/Ubuntu-Light.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Ubuntu-LightItalic";
+    src: url("../assets/fonts/Ubuntu-LightItalic.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Ubuntu-Medium";
+    src: url("../assets/fonts/Ubuntu-Medium.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Ubuntu-MediumItalic";
+    src: url("../assets/fonts/Ubuntu-MediumItalic.ttf") format("truetype");
+  }
+  
+  /* Classes for applying fonts */
+  .font-plex-bold {
+    font-family: "IBMPlexSans-Bold";
+  }
+  
+  .font-plex-bold-italic {
+    font-family: "IBMPlexSans-BoldItalic";
+  }
+  
+  .font-plex-extralight {
+    font-family: "IBMPlexSans-ExtraLight";
+  }
+  
+  .font-plex-extralight-italic {
+    font-family: "IBMPlexSans-ExtraLightItalic";
+  }
+  
+  .font-plex-italic {
+    font-family: "IBMPlexSans-Italic";
+  }
+  
+  .font-plex-light {
+    font-family: "IBMPlexSans-Light";
+  }
+  
+  .font-plex-light-italic {
+    font-family: "IBMPlexSans-LightItalic";
+  }
+  
+  .font-plex-medium {
+    font-family: "IBMPlexSans-Medium";
+  }
+  
+  .font-plex-medium-italic {
+    font-family: "IBMPlexSans-MediumItalic";
+  }
+  
+  .font-plex-regular {
+    font-family: "IBMPlexSans-Regular";
+  }
+  
+  .font-plex-semibold {
+    font-family: "IBMPlexSans-SemiBold";
+  }
+  
+  .font-plex-semibold-italic {
+    font-family: "IBMPlexSans-SemiBoldItalic";
+  }
+  
+  .font-plex-thin {
+    font-family: "IBMPlexSans-Thin";
+  }
+  
+  .font-plex-thin-italic {
+    font-family: "IBMPlexSans-ThinItalic";
+  }
+  
+  .font-ubuntu-bold {
+    font-family: "Ubuntu-Bold";
+  }
+  
+  .font-ubuntu-bold-italic {
+    font-family: "Ubuntu-BoldItalic";
+  }
+  
+  .font-ubuntu-italic {
+    font-family: "Ubuntu-Italic";
+  }
+  
+  .font-ubuntu-light {
+    font-family: "Ubuntu-Light";
+  }
+  
+  .font-ubuntu-light-italic {
+    font-family: "Ubuntu-LightItalic";
+  }
+  
+  .font-ubuntu-medium {
+    font-family: "Ubuntu-Medium";
+  }
+  
+  .font-ubuntu-medium-italic {
+    font-family: "Ubuntu-MediumItalic";
+  }

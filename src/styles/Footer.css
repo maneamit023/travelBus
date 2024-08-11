@@ -1,0 +1,6 @@
+.footer-menus{
+    white-space: "nowrap";
+    font-size: "smaller";
+    font-family: "Ubuntu-Medium";
+   /* sx={{ mx: 2, whiteSpace: "nowrap", fontSize: "smaller", fontFamily: "Ubuntu-Medium" }} */
+}

@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.App{
+  background-color: white;
+}
+
+/* @font-face{
+  font-family: "Medium";
+  src: local("IBMPlexSans-Bold"),
+  url("./assets/fonts/IBMPlexSans-Bold.ttf") format(truetype);
+} */
