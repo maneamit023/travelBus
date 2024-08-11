@@ -138,7 +138,7 @@ const Footer = () => {
               alignItems: "center",
             }}
           >
-            <Typography sx={{ mx: 2, whiteSpace: "nowrap", fontSize: "smaller", fontFamily: "Ubuntu-Medium", color: "grey" }}>Legal</Typography>
+            <Typography sx={{ whiteSpace: "nowrap", fontSize: "smaller", fontFamily: "Ubuntu-Medium", color: "grey" }}>Legal</Typography>
             <Typography sx={{ mx: 2, whiteSpace: "nowrap", fontSize: "smaller", fontFamily: "Ubuntu-Medium", color: "grey" }}>Privacy Policy</Typography>
             <Typography sx={{ mx: 2, whiteSpace: "nowrap", fontSize: "smaller", fontFamily: "Ubuntu-Medium", color: "grey" }}>Photo Credits</Typography>
             <Grid item sx={{ display: "flex", alignItems: "center" }}>
